@@ -17,8 +17,8 @@ logger:
 
 # UART config
 uart:
-  tx_pin: GPIO1
-  rx_pin: GPIO3
+  tx_pin: 5
+  rx_pin: 4
   baud_rate: 9600
 
 # Enable Home Assistant API
